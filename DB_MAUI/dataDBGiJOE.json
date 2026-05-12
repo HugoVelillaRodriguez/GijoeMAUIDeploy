@@ -1,0 +1,4297 @@
+[
+  {
+    "Name": "STORM SHADOW (v3)",
+    "Year": "1992",
+    "CodeName": "NINJA FORCE LEADER",
+    "ImageBody": "ImageBody_0.gif",
+    "ImageBody_64": "ImageBody_mini_0.gif",
+    "ImageBlister1": "ImageBlister1_0.gif",
+    "ImageBlister2": "ImageBlister2_0.gif",
+    "ImageBlisterCard": "ImageBlisterCard_0.gif",
+    "Faction": "Cobra",
+    "ID": "0",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_0_0.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_0_1.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_0_2.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "10",
+    "Serie": "Eleven",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Storm Shadow (v3) was released carded as part of the eleventh series (1992) as part of the Ninja Force subset. He was discontinued domestically in 1993.",
+    "FilecardInformation": "File Name: Arashikage, Thomas S.\r\nGrade: E-8 (First Sergeant)\r\nBirthplace: St. Louis, MO\r\nPrimary Specialty: Covert Operations\r\nSecondary Specialty: Martial Arts Instructor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 3
+  },
+  {
+    "Name": "AVALANCHE (v1)",
+    "Year": "1987",
+    "CodeName": "DOMINATOR DRIVER/DOMINATOR SNOW VEHICLE DRIVER",
+    "ImageBody": "ImageBody_1.gif",
+    "ImageBody_64": "ImageBody_mini_1.gif",
+    "ImageBlister1": "ImageBlister1_1.gif",
+    "ImageBlister2": "ImageBlister2_1.gif",
+    "ImageBlisterCard": "ImageBlisterCard_1.gif",
+    "Faction": "GiJoe",
+    "ID": "1",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_1_3.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_1_4.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "Battle Force 2000",
+    "Price": "15",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Avalanche was first released carded invidually as part of the Battleforce 2000 subset of G.I.Joe at the very end of the sixth series (1987). In 1988 he was available carded in a special two-pack with Blaster and was discontinued the following year.\r\n\r\nEven if they are not listed in the 1987 catalog, the Battleforce 2000 figures are considered part of the 1987 series since they made it to toy shelves in the 1987 calendar year. Be aware that some toy listings will list Avalanche as having been released in 1988.\r\n\r\nNote that in the ninth series (1990) a vehicle named the Avalanche was released. This vehicle has nothing to do with the action figure or Battle Force 2000.",
+    "FilecardInformation": "File Name: Costello, Ian M.\r\nGrade: E-5 (Sergeant)\r\nBirthplace: Madawask, Maine\r\nPrimary Specialty: Armored Vehicle Driver\r\nSecondary Specialty: Cold Weather Survival Driver",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "FRAG-VIPER (v1)",
+    "Year": "1989",
+    "CodeName": "COBRA GRENADE THROWER",
+    "ImageBody": "ImageBody_2.gif",
+    "ImageBody_64": "ImageBody_mini_2.gif",
+    "ImageBlister1": "ImageBlister1_2.gif",
+    "ImageBlister2": "ImageBlister2_2.gif",
+    "ImageBlisterCard": "ImageBlisterCard_2.gif",
+    "Faction": "Cobra",
+    "ID": "2",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_2_10.gif",
+        "Roto": false,
+        "QuantityNeeded": 3,
+        "QuantityHaveit": 1,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_2_9.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_2_5.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_2_6.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_2_7.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_2_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "25",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Frag-Viper was first released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "Unknown",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "TECHNO-VIPER (v1)",
+    "Year": "1987",
+    "CodeName": "COBRA BATTLEFIELD TECHNICIAN",
+    "ImageBody": "ImageBody_3.gif",
+    "ImageBody_64": "ImageBody_mini_3.gif",
+    "ImageBlister1": "ImageBlister1_3.gif",
+    "ImageBlister2": "ImageBlister2_3.gif",
+    "ImageBlisterCard": "ImageBlisterCard_3.gif",
+    "Faction": "Cobra",
+    "ID": "3",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_3_11.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_3_15.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_3_12.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_3_14.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_3_16.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_3_13.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Techno-Viper was first released as part of the sixth series (1987). He was also available in 1988 and was discontinued in 1989. No variations of Techno-Viper (v1) are known to exist.",
+    "FilecardInformation": "Unknown",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 1
+  },
+  {
+    "Name": "S.A.W.-VIPER (v1)",
+    "Year": "1990",
+    "CodeName": "COBRA HEAVY MACHINE GUNNER",
+    "ImageBody": "ImageBody_4.gif",
+    "ImageBody_64": "ImageBody_mini_4.gif",
+    "ImageBlister1": "ImageBlister1_4.gif",
+    "ImageBlister2": "ImageBlister2_4.gif",
+    "ImageBlisterCard": "ImageBlisterCard_4.gif",
+    "Faction": "Cobra",
+    "ID": "4",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_4_17.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_4_18.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_4_19.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_4_20.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "30",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "S.A.W. Viper was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.\r\nS.A.W. Viper came with a large black machine gun, a black bipod, a purple backpack, and a gray ammo-belt..\r\n\r\nNo variations of S.A.W.-Viper (v1) are known to exist.\r\nS.A.W.-Viper's body is entirely original - no parts were taken from other figures.\r\n\r\nS.A.W.-Viper's entire body was re-used to create S.A.W. Viper (v2) (2003). S.A.W. Viper's chest, arms, waist, and legs were re-used to create Zartan (v3) (2001)",
+    "FilecardInformation": "Unknown",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SCOOP (v1)",
+    "Year": "1989",
+    "CodeName": "COMBAT INFORMATION SPECIALIST",
+    "ImageBody": "ImageBody_5.gif",
+    "ImageBody_64": "ImageBody_mini_5.gif",
+    "ImageBlister1": "ImageBlister1_5.gif",
+    "ImageBlister2": "ImageBlister2_5.gif",
+    "ImageBlisterCard": "ImageBlisterCard_5.gif",
+    "Faction": "GiJoe",
+    "ID": "5",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_5_21.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_5_22.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_5_23.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_5_24.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_5_25.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_5_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "15",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Scoop was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Michaels, Leonard\r\nSN: 887-1192-XE86\r\nGrade: E-4\r\nPrimary Specialty: Journalist\r\nSecondary Specialty: Microwave Transmission Specialist",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "LT. FALCON (v2)",
+    "Year": "1991",
+    "CodeName": "GREEN BERET",
+    "ImageBody": "ImageBody_6.gif",
+    "ImageBody_64": "ImageBody_mini_6.gif",
+    "ImageBlister1": "ImageBlister1_6.gif",
+    "ImageBlister2": "ImageBlister2_6.gif",
+    "ImageBlisterCard": "ImageBlisterCard_6.gif",
+    "Faction": "GiJoe",
+    "ID": "6",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_6_27.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_6_28.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_6_2.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_6_26.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "25",
+    "Serie": "Eleven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Lt. Falcon (v2) was first released carded as part of the tenth series (1991) as part of the Super Sonic Fighters subset. He was discontinued domestically in 1992.",
+    "FilecardInformation": "File Name: Falcon, Vincent R.\r\nSN: 035-385S-LF64*\r\nGrade: O-2 (1st Lt.)\r\nBirthplace: Fayetteville, North Carolina\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Medic",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "CHARBROIL (v1)",
+    "Year": "1988",
+    "CodeName": "FLAMETHROWER",
+    "ImageBody": "ImageBody_7.gif",
+    "ImageBody_64": "ImageBody_mini_7.gif",
+    "ImageBlister1": "ImageBlister1_7.gif",
+    "ImageBlister2": "ImageBlister2_7.gif",
+    "ImageBlisterCard": "ImageBlisterCard_7.gif",
+    "Faction": "GiJoe",
+    "ID": "7",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_7_29.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_7_30.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_7_31.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_7_32.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Charbroil was released carded as part of the seventh series (1988). He was also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Shannon, Carl G.\r\nSN: 247-40-4109\r\nGrade: E-4\r\nBirthplace: Blackduck, Minnesota\r\nPrimary Specialty: Flame Weapons Specialist\r\nSecondary Specialty: Small Arms Armorer",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ANNIHILATOR (v1)",
+    "Year": "1989",
+    "CodeName": "DESTRO'S ELITE TROOPER",
+    "ImageBody": "ImageBody_8.gif",
+    "ImageBody_64": "ImageBody_mini_8.gif",
+    "ImageBlister1": "ImageBlister1_8.gif",
+    "ImageBlister2": "ImageBlister2_8.gif",
+    "ImageBlisterCard": "ImageBlisterCard_8.gif",
+    "Faction": "Cobra",
+    "ID": "8",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_8_34.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_8_37.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_8_38.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_8_33.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_8_35.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_8_36.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Annihilator was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "ANNIHILATORS are DESTRO's personal bodyguards and elite airborne assault troops. They can be deployed by sea, air and land \"take-off\" with their mini-turbine Heli-packs on their backs and descend upon their target like armored locusts. Annihilators are recruited from the ranks of the Iron Grenadiers. As part of their indoctrination into the Annihilator Corps, they must serve an apprenticeship as hard-sell telephone solicitors, procuring sales for Destro's M.A.R.S.* armaments corporation. Not only does this help to increase Destro's coffers, but it also reinforces their tenacity and ruthlessness!",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "NIGHT CREEPER (v1)",
+    "Year": "1990",
+    "CodeName": "COBRA NINJA",
+    "ImageBody": "ImageBody_9.gif",
+    "ImageBody_64": "ImageBody_mini_9.gif",
+    "ImageBlister1": "ImageBlister1_9.gif",
+    "ImageBlister2": "ImageBlister2_9.gif",
+    "ImageBlisterCard": "ImageBlisterCard_9.gif",
+    "Faction": "Cobra",
+    "ID": "9",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_9_39.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_9_40.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_9_41.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_9_42.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Night Creeper was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "n/a",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SUB-ZERO (v1)",
+    "Year": "1990",
+    "CodeName": "WINTER OPERATIONS SPECIALIST",
+    "ImageBody": "ImageBody_10.gif",
+    "ImageBody_64": "ImageBody_mini_10.gif",
+    "ImageBlister1": "ImageBlister1_10.gif",
+    "ImageBlister2": "ImageBlister2_10.gif",
+    "ImageBlisterCard": "ImageBlisterCard_10.gif",
+    "Faction": "GiJoe",
+    "ID": "10",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_10_45.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_10_48.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_10_46.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_10_43.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_10_47.gif",
+        "Roto": false,
+        "QuantityNeeded": 4,
+        "QuantityHaveit": 1,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_10_44.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Sub-Zero was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.\r\n\r\nCare should be taken not to confuse the G.I.Joe Sub-Zero with the Mortal Kombat Sub-Zero..",
+    "FilecardInformation": "File Name: Habershaw, Mark\r\nGrade: O-2\r\nBirthplace: Smithfield, Rhode Island\r\nPrimary Specialty: Winter Operations Specialist\r\nSecondary Specialty: Field Artillery",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "RANGE-VIPERS (v1)",
+    "Year": "1990",
+    "CodeName": "COBRA WILDERNESS TROOPERS",
+    "ImageBody": "ImageBody_11.gif",
+    "ImageBody_64": "ImageBody_mini_11.gif",
+    "ImageBlister1": "ImageBlister1_11.gif",
+    "ImageBlister2": "ImageBlister2_11.gif",
+    "ImageBlisterCard": "ImageBlisterCard_11.gif",
+    "Faction": "Cobra",
+    "ID": "11",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_11_49.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_11_50.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_11_51.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_11_52.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_11_53.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_11_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Range Viper was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "n/a",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SPIRIT (v1) - UK",
+    "Year": "1991",
+    "CodeName": "Spirit",
+    "ImageBody": "ImageBody_12.gif",
+    "ImageBody_64": "ImageBody_mini_12.gif",
+    "ImageBlister1": "ImageBlister1_12.gif",
+    "ImageBlister2": "ImageBlister2_12.gif",
+    "ImageBlisterCard": "ImageBlisterCard_12.gif",
+    "Faction": "GiJoe",
+    "ID": "12",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_12_54.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_12_55.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_12_56.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_12_57.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eleven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "This version of Spirit was an exclusive figure that was available carded in Europe in 1991.",
+    "FilecardInformation": "File Name: Iron-Knife, Charlie\r\nSN: 1465-1009-AP34\r\nPrimary Military Specialty: Tracker\r\nSecondary Military Specialty: Cartographer\r\nGrade: E-5",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "MUTT (UK/Europe)",
+    "Year": "1991",
+    "CodeName": "DOG HANDLER (K-9)",
+    "ImageBody": "ImageBody_13.gif",
+    "ImageBody_64": "ImageBody_mini_13.gif",
+    "ImageBlister1": "ImageBlister1_13.gif",
+    "ImageBlister2": "ImageBlister2_13.gif",
+    "ImageBlisterCard": "ImageBlisterCard_13.gif",
+    "Faction": "GiJoe",
+    "ID": "13",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_13_58.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_13_59.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_13_60.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_13_61.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_13_62.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_13_63.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eleven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "This version of Mutt was an exclusive figure that was available carded in Europe in 1991.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "PATHFINDER (v1)",
+    "Year": "1990",
+    "CodeName": "JUNGLE ASSAULT SPECIALIST",
+    "ImageBody": "ImageBody_14.gif",
+    "ImageBody_64": "ImageBody_mini_14.gif",
+    "ImageBlister1": "ImageBlister1_14.gif",
+    "ImageBlister2": "ImageBlister2_14.gif",
+    "ImageBlisterCard": "ImageBlisterCard_14.gif",
+    "Faction": "GiJoe",
+    "ID": "14",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_14_64.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_14_66.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_14_67.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_14_65.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_14_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Pathfinder was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Iannotti, William V.\r\nSN: 040-9812-JA41\r\nGrade: E-6\r\nBirthplace: Key West, Florida\r\nPrimary Specialty: Jungle Assault Specialist\r\nSecondary Specialty: Forward Observer/Recon",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "COBRA COMMANDER (v5)",
+    "Year": "1992",
+    "CodeName": "COBRA LEADER",
+    "ImageBody": "ImageBody_15.gif",
+    "ImageBody_64": "ImageBody_mini_15.gif",
+    "ImageBlister1": "ImageBlister1_15.gif",
+    "ImageBlister2": "ImageBlister2_15.gif",
+    "ImageBlisterCard": "ImageBlisterCard_15.gif",
+    "Faction": "Cobra",
+    "ID": "15",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_15_68.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_15_70.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_15_71.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_15_69.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eleven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Cobra Commander (v5) was released carded as part of the eleventh series (1992) as part of the Talking Battle Commanders. He was discontinued domestically in 1993.",
+    "FilecardInformation": "Supreme commander of the Cobra Legions, contraband arms merchant, international terrorist and real estate swindler, COBRA COMMANDER is the ultimate foe of G.I. Joe",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DECIMATOR (v1)",
+    "Year": "1990",
+    "CodeName": "COBRA HAMMERHEAD DRIVER",
+    "ImageBody": "ImageBody_16.gif",
+    "ImageBody_64": "ImageBody_mini_16.gif",
+    "ImageBlister1": "ImageBlister1_16.gif",
+    "ImageBlister2": "ImageBlister2_16.gif",
+    "ImageBlisterCard": "ImageBlisterCard_16.gif",
+    "Faction": "Cobra",
+    "ID": "16",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_16_72.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_16_73.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Decimator was released as part of the ninth series (1990), packaged exclusively with the Cobra Hammerhead. He was discontinued domestically in 1991.",
+    "FilecardInformation": "Cobra Island is surrounded by open beaches which are, at the very least, hostile environments for tanks of any sort. The Hammerhead was specifically developed to function in shallow coastal waters, sand and scrub vegetation. Sacrificing heavy armor protection for speed and agility, the Hammerhead requires a driver with lightning fast reflexes and exceptional peripheral vision.",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DROP ZONE (v1)",
+    "Year": "1990",
+    "CodeName": "SKY PATROL WEAPONS SPECIALIST",
+    "ImageBody": "ImageBody_17.gif",
+    "ImageBody_64": "ImageBody_mini_17.gif",
+    "ImageBlister1": "ImageBlister1_17.gif",
+    "ImageBlister2": "ImageBlister2_17.gif",
+    "ImageBlisterCard": "ImageBlisterCard_17.gif",
+    "Faction": "GiJoe",
+    "ID": "17",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_17_74.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_17_75.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_17_76.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Drop Zone was released carded as part of the ninth series (1990) as part of the Sky Patrol. He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Delisi, Samuel C.\r\nGrade: E-8\r\nBirthplace: Poteau, Oklahoma\r\nPrimary Specialty: Sky Patrol Weapons Specialist\r\nSecondary Specialty: Special Forces Advisor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "LOW-LIGHT (v2)",
+    "Year": "1989",
+    "CodeName": "NIGHT SPOTTER",
+    "ImageBody": "ImageBody_18.gif",
+    "ImageBody_64": "ImageBody_mini_18.gif",
+    "ImageBlister1": "ImageBlister1_18.gif",
+    "ImageBlister2": "ImageBlister2_18.gif",
+    "ImageBlisterCard": "ImageBlisterCard_18.gif",
+    "Faction": "GiJoe",
+    "ID": "18",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_18_77.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_18_78.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_18_79.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_18_249.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Low-Light (v2) - also commonly known as Slaughter's Marauders Low-Light - was released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: MacBride, Cooper\r\nGrade: E-6\r\nBirthplace: Crosby, New Mexico\r\nPrimary Specialty: Night Spotter\r\nSecondary Specialty: Marksmanship Instructor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "NIGHT-VIPER (v1)",
+    "Year": "1989",
+    "CodeName": "COBRA NIGHT FIGHTER",
+    "ImageBody": "ImageBody_19.gif",
+    "ImageBody_64": "ImageBody_mini_19.gif",
+    "ImageBlister1": "ImageBlister1_19.gif",
+    "ImageBlister2": "ImageBlister2_19.gif",
+    "ImageBlisterCard": "ImageBlisterCard_19.gif",
+    "Faction": "Cobra",
+    "ID": "19",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_19_80.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_19_81.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_19_82.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Night-Viper was first released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "-",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DEEP SIX (v2)",
+    "Year": "1989",
+    "CodeName": "DEEP SEA DIVER",
+    "ImageBody": "ImageBody_20.gif",
+    "ImageBody_64": "ImageBody_mini_20.gif",
+    "ImageBlister1": "ImageBlister1_20.gif",
+    "ImageBlister2": "ImageBlister2_20.gif",
+    "ImageBlisterCard": "ImageBlisterCard_20.gif",
+    "Faction": "GiJoe",
+    "ID": "20",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_20_83.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_20_84.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_20_16.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_20_86.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_20_85.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Deep Six (v2) was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Willoughby, Malcom R.\r\nGrade: E-7 CPO (Chief Petty Officer)\r\nBirthplace: Baltimore, Maryland\r\nPrimary Specialty: NEC: Master Diver\r\nSecondary Specialty: Underwater Demolitions Instructor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "METAL-HEAD (v1)",
+    "Year": "1990",
+    "CodeName": "DESTRO'S ANTI-TANK SPECIALIST",
+    "ImageBody": "ImageBody_21.gif",
+    "ImageBody_64": "ImageBody_mini_21.gif",
+    "ImageBlister1": "ImageBlister1_21.gif",
+    "ImageBlister2": "ImageBlister2_21.gif",
+    "ImageBlisterCard": "ImageBlisterCard_21.gif",
+    "Faction": "Cobra",
+    "ID": "21",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_21_87.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_21_88.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_21_89.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_21_90.gif",
+        "Roto": true,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_21_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_21_91.gif",
+        "Roto": false,
+        "QuantityNeeded": 6,
+        "QuantityHaveit": 6,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Metal-Head was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "METAL-HEAD is a walking anti-tank weapon! He can launch high-explosive missiles from his backpack racks or from his \"hip-swivel\" holster tubes and guide them to their objectives on a laser beam, without the use of his hands or his feet. His voice-activated weapons' command system is made up of circuits and targeting computer modules built into various components of his blast suit. All he has to do is make visual contact with the target, let the computer \"read\" the range, plot the trajectory, wait for the green light to flash, then yell \"bang\" to complete the firing sequence.",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SNAKE EYES (v4)",
+    "Year": "1991",
+    "CodeName": "COMMANDO",
+    "ImageBody": "ImageBody_22.gif",
+    "ImageBody_64": "ImageBody_mini_22.gif",
+    "ImageBlister1": "ImageBlister1_22.gif",
+    "ImageBlister2": "ImageBlister2_22.gif",
+    "ImageBlisterCard": "ImageBlisterCard_22.gif",
+    "Faction": "GiJoe",
+    "ID": "22",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_22_92.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_22_93.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_22_94.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_22_95.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_22_2.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Snake Eyes (version 4) was released carded as part of the tenth series (1991). He was discontinued domestically in 1992.",
+    "FilecardInformation": "File Name: Classified\r\nSN: Classified\r\nGrade: E-7\r\nBirthplace: Classified\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Hand-to-Hand Combat Instructor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "VAPOR (v1)",
+    "Year": "1990",
+    "CodeName": "COBRA HURRICANE VTOL PILOT",
+    "ImageBody": "ImageBody_23.gif",
+    "ImageBody_64": "ImageBody_mini_23.gif",
+    "ImageBlister1": "ImageBlister1_23.gif",
+    "ImageBlister2": "ImageBlister2_23.gif",
+    "ImageBlisterCard": "ImageBlisterCard_23.gif",
+    "Faction": "Cobra",
+    "ID": "23",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_23_2.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "50",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Vapor was released as part of the ninth series (1990), packaged exclusively with the Cobra Hurricane VTOL. He was discontinued domestically in 1991.",
+    "FilecardInformation": "The VTOL tactical fighter pilot has direct shunts from his optic nerve to his inboard targeting computers. Important data can be projected directly onto his helmet's field of vision screen. He is also equipped with advanced laser-powered, heads-up-display target locator with direct servo-linkage to the weapons systems that can be actuated by simple voice command. This enables VAPOR to engage a target instantaneously, substantially increasing his first-hit probability percentage.",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "Hit & Run (UK/Europe)",
+    "Year": "1991",
+    "CodeName": "Light Infantryman",
+    "ImageBody": "ImageBody_24.gif",
+    "ImageBody_64": "ImageBody_mini_24.gif",
+    "ImageBlister1": "ImageBlister1_24.gif",
+    "ImageBlister2": "ImageBlister2_24.gif",
+    "ImageBlisterCard": "ImageBlisterCard_24.gif",
+    "Faction": "GiJoe",
+    "ID": "24",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_24_97.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_24_98.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_24_99.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_24_100.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "Tiger Force",
+    "Price": "0",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Tiger Force Hit & Run was an exclusive figure that was available carded in Europe in 1991. He was one of six European exclusive Tiger Force figures.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "H.E.A.T. VIPER (v1)",
+    "Year": "1989",
+    "CodeName": "COBRA BAZOOKA MAN",
+    "ImageBody": "ImageBody_25.gif",
+    "ImageBody_64": "ImageBody_mini_25.gif",
+    "ImageBlister1": "ImageBlister1_25.gif",
+    "ImageBlister2": "ImageBlister2_25.gif",
+    "ImageBlisterCard": "ImageBlisterCard_25.gif",
+    "Faction": "Cobra",
+    "ID": "25",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_25_102.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_25_103.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_25_104.gif",
+        "Roto": false,
+        "QuantityNeeded": 6,
+        "QuantityHaveit": 2,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_25_101.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_25_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "H.E.A.T. (High Explosive Anti-Tank) Viper was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "Unknown",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ROCK-VIPER (v1)",
+    "Year": "1990",
+    "CodeName": "COBRA MOUNTAIN TROOPER",
+    "ImageBody": "ImageBody_26.gif",
+    "ImageBody_64": "ImageBody_mini_26.gif",
+    "ImageBlister1": "ImageBlister1_26.gif",
+    "ImageBlister2": "ImageBlister2_26.gif",
+    "ImageBlisterCard": "ImageBlisterCard_26.gif",
+    "Faction": "Cobra",
+    "ID": "26",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_26_105.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_26_106.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_26_107.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_26_108.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_26_9.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Rock Viper was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "-",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SKYDIVE (v1)",
+    "Year": "1990",
+    "CodeName": "SKY PATROL LEADER",
+    "ImageBody": "ImageBody_27.gif",
+    "ImageBody_64": "ImageBody_mini_27.gif",
+    "ImageBlister1": "ImageBlister1_27.gif",
+    "ImageBlister2": "ImageBlister2_27.gif",
+    "ImageBlisterCard": "ImageBlisterCard_27.gif",
+    "Faction": "GiJoe",
+    "ID": "27",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_27_109.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_27_110.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_27_111.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_27_112.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Skydive was released carded as part of the ninth series (1990) as part of the Sky Patrol. He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Felix, Lynton N.\r\nGrade: E-5\r\nBirthplace: Pensacola, Florida\r\nPrimary Specialty: Sky Patrol Leader\r\nSecondary Specialty: Personnel Administration",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ALTITUDE (v1)",
+    "Year": "1990",
+    "CodeName": "SKY PATROL RECON SCOUT",
+    "ImageBody": "ImageBody_28.gif",
+    "ImageBody_64": "ImageBody_mini_28.gif",
+    "ImageBlister1": "ImageBlister1_28.gif",
+    "ImageBlister2": "ImageBlister2_28.gif",
+    "ImageBlisterCard": "ImageBlisterCard_28.gif",
+    "Faction": "GiJoe",
+    "ID": "28",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_28_113.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_28_114.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_28_115.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_28_116.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_28_117.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Altitude was released carded as part of the ninth series (1990) as part of the Sky Patrol. He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Jones, John-Edward O.\r\nGrade: E-9 (Sergeant Major of the Army)\r\nBirthplace: Cambria, California\r\nPrimary Specialty: Sky Patrol Recon Scout\r\nSecondary Specialty: Combat Artist",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "AIRWAVE (v1)",
+    "Year": "1990",
+    "CodeName": "SKY PATROL AUDIBLE FREQUENCY SPECIALIST",
+    "ImageBody": "ImageBody_29.gif",
+    "ImageBody_64": "ImageBody_mini_29.gif",
+    "ImageBlister1": "ImageBlister1_29.gif",
+    "ImageBlister2": "ImageBlister2_29.gif",
+    "ImageBlisterCard": "ImageBlisterCard_29.gif",
+    "Faction": "GiJoe",
+    "ID": "29",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_29_118.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_29_119.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_29_120.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Airwave was released carded as part of the ninth series (1990) as part of the Sky Patrol. He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Mewett, Cliff V.\r\nGrade: E-8\r\nBirthplace: Louisville, Kentucky\r\nPrimary Specialty: Sky Patrol Audible Frequency Specialist\r\nSecondary Specialty: Signal Corps Adjutant for JCS",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "BULLHORN (v1)",
+    "Year": "1990",
+    "CodeName": "INTERVENTION SPECIALIST",
+    "ImageBody": "ImageBody_30.gif",
+    "ImageBody_64": "ImageBody_mini_30.gif",
+    "ImageBlister1": "ImageBlister1_30.gif",
+    "ImageBlister2": "ImageBlister2_30.gif",
+    "ImageBlisterCard": "ImageBlisterCard_30.gif",
+    "Faction": "GiJoe",
+    "ID": "30",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_30_121.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_30_122.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_30_128.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_30_125.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_30_126.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_30_127.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_30_129.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Bullhorn was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Ferreira, Stephen A.\r\nSN: 780-5287-FR33\r\nGrade: E-5\r\nBirthplace: Providence, Rhode Island\r\nPrimary Specialty: Intervention Specialist\r\nSecondary Specialty: Armor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SPEARHEAD & MAX (v1)",
+    "Year": "1988",
+    "CodeName": "POINT MAN & BOBCAT",
+    "ImageBody": "ImageBody_31.gif",
+    "ImageBody_64": "ImageBody_mini_31.gif",
+    "ImageBlister1": "ImageBlister1_31.gif",
+    "ImageBlister2": "ImageBlister2_31.gif",
+    "ImageBlisterCard": "ImageBlisterCard_31.gif",
+    "Faction": "GiJoe",
+    "ID": "31",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_31_130.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_31_131.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_31_132.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_31_133.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_31_134.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Spearhead & Max were released carded as part of the seventh series (1988). They were also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Millman, Peter R.\r\nSN: 075-09-4876\r\nGrade: E-4\r\nBirthplace: St. Louis, Missouri\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Finance",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "RAMPART (v1)",
+    "Year": "1990",
+    "CodeName": "SHORELINE DEFENDER",
+    "ImageBody": "ImageBody_32.gif",
+    "ImageBody_64": "ImageBody_mini_32.gif",
+    "ImageBlister1": "ImageBlister1_32.gif",
+    "ImageBlister2": "ImageBlister2_32.gif",
+    "ImageBlisterCard": "ImageBlisterCard_32.gif",
+    "Faction": "GiJoe",
+    "ID": "32",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_32_135.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_32_138.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_32_139.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 1,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_32_137.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_32_257.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_32_258.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Rampart was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Felix, Dwayne A.\r\nGrade: E-4\r\nBirthplace: New York City, New York\r\nPrimary Specialty: Shoreline Defender\r\nSecondary Specialty: ADA Missile Specialist",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "MAJOR STORM (v1)",
+    "Year": "1990",
+    "CodeName": "GENERAL COMMANDER",
+    "ImageBody": "ImageBody_33.gif",
+    "ImageBody_64": "ImageBody_mini_33.gif",
+    "ImageBlister1": "ImageBlister1_33.gif",
+    "ImageBlister2": "ImageBlister2_33.gif",
+    "ImageBlisterCard": "ImageBlisterCard_33.gif",
+    "Faction": "GiJoe",
+    "ID": "33",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_33_140.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_33_141.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Major Storm was released as part of the ninth series (1990), packaged exclusively with the General mobile assault fort. He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Swanson, Robert G.\r\nGrade: O-4\r\nBirthplace: Providence, Rhode Island\r\nPrimary Specialty: General Commander\r\nSecondary Specialty: Longe Range Artillery Officer",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "LAMPREYS (v2)",
+    "Year": "1990",
+    "CodeName": "COBRA AMPHIBIOUS ASSAULT TROOPER",
+    "ImageBody": "ImageBody_34.gif",
+    "ImageBody_64": "ImageBody_mini_34.gif",
+    "ImageBlister1": "ImageBlister1_34.gif",
+    "ImageBlister2": "ImageBlister2_34.gif",
+    "ImageBlisterCard": "ImageBlisterCard_34.gif",
+    "Faction": "Cobra",
+    "ID": "34",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_34_142.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_34_143.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_34_144.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_34_145.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_34_146.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Lampreys (v2) was first released carded as part of the ninth series (1990) as part of the Sonic Fighters. He was discontinued domestically in 1991.",
+    "FilecardInformation": "-",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "STRETCHER (v1)",
+    "Year": "1990",
+    "CodeName": "MEDICAL SPECIALIST",
+    "ImageBody": "ImageBody_35.gif",
+    "ImageBody_64": "ImageBody_mini_35.gif",
+    "ImageBlister1": "ImageBlister1_35.gif",
+    "ImageBlister2": "ImageBlister2_35.gif",
+    "ImageBlisterCard": "ImageBlisterCard_35.gif",
+    "Faction": "GiJoe",
+    "ID": "35",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_35_147.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_35_148.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_35_149.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_35_150.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_35_151.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Stretcher was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Larivee, Thomas J.\r\nGrade: E-5\r\nBirthplace: Hartford, Connecticut\r\nPrimary Specialty: Medical Specialist\r\nSecondary Specialty: Troop Transportation",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "FREEFALL (v1)",
+    "Year": "1990",
+    "CodeName": "PARATROOPER",
+    "ImageBody": "ImageBody_36.gif",
+    "ImageBody_64": "ImageBody_mini_36.gif",
+    "ImageBlister1": "ImageBlister1_36.gif",
+    "ImageBlister2": "ImageBlister2_36.gif",
+    "ImageBlisterCard": "ImageBlisterCard_36.gif",
+    "Faction": "GiJoe",
+    "ID": "36",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_36_152.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_36_153.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_36_154.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_36_155.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_36_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Freefall was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "VOLTAR (v1)",
+    "Year": "1988",
+    "CodeName": "DESTRO'S GENERAL",
+    "ImageBody": "ImageBody_37.gif",
+    "ImageBody_64": "ImageBody_mini_37.gif",
+    "ImageBlister1": "ImageBlister1_37.gif",
+    "ImageBlister2": "ImageBlister2_37.gif",
+    "ImageBlisterCard": "ImageBlisterCard_37.gif",
+    "Faction": "Cobra",
+    "ID": "37",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_37_156.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_37_157.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_37_158.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "oltar was first released carded as part of the seventh series (1988). He was also sold in 1989 and was discontinued domestically in 1990.\r\n\r\nVoltar was also available in 1988 carded with Muskrat in a Target exclusive \"Ultimate Enemies\" two-pack.",
+    "FilecardInformation": "-",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "INTERROGATOR (v1)",
+    "Year": "1991",
+    "CodeName": "COBRA BATTLE COPTER PILOT",
+    "ImageBody": "ImageBody_38.gif",
+    "ImageBody_64": "ImageBody_mini_38.gif",
+    "ImageBlister1": "ImageBlister1_38.gif",
+    "ImageBlister2": "ImageBlister2_38.gif",
+    "ImageBlisterCard": "ImageBlisterCard_38.gif",
+    "Faction": "Cobra",
+    "ID": "38",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_38_159.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Interrogator was released as part of the tenth series (1991), packaged exclusively with the Cobra Battle Copter. He was discontinued domestically in 1992.",
+    "FilecardInformation": "-",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "PSYCHE-OUT (UK/Europe)",
+    "Year": "1990",
+    "CodeName": "Tiger Force Deceptive Warfare",
+    "ImageBody": "ImageBody_39.gif",
+    "ImageBody_64": "ImageBody_mini_39.gif",
+    "ImageBlister1": "ImageBlister1_39.gif",
+    "ImageBlister2": "ImageBlister2_39.gif",
+    "ImageBlisterCard": "ImageBlisterCard_39.gif",
+    "Faction": "GiJoe",
+    "ID": "39",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_39_160.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_39_161.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_39_162.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_39_163.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_39_164.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 1,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "TIGER FORCE",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Tiger Force Psyche-Out was an exclusive figure that was available carded in Europe in 1990. In 1990, he was one of two European exclusive Tiger Force figures, along with Tiger Force Outback.\r\n\r\nHe was also available in 1991, as one of six European exclusive Tiger Force figures.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "MAJOR ALTITUDE (v1)",
+    "Year": "1991",
+    "CodeName": "BATTLE COPTER PILOT",
+    "ImageBody": "ImageBody_40.gif",
+    "ImageBody_64": "ImageBody_mini_40.gif",
+    "ImageBlister1": "ImageBlister1_40.gif",
+    "ImageBlister2": "ImageBlister2_40.gif",
+    "ImageBlisterCard": "ImageBlisterCard_40.gif",
+    "Faction": "GiJoe",
+    "ID": "40",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_40_165.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_40_166.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Major Altitude was released as part of the tenth series (1991), packaged exclusively with the G.I.Joe Battle Copter. He was discontinued domestically in 1992.",
+    "FilecardInformation": "File Name: Owens, Robert D.\r\nSN: 038-8729-AT01\r\nGrade: WO-2\r\nBirthplace: Rumford, Rhode Island\r\nPrimary Specialty: Battle Copter Pilot\r\nSecondary Specialty: Fuselage Art Designer",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "LIGHTFOOT (v1)",
+    "Year": "1988",
+    "CodeName": "EXPLOSIVES EXPERT",
+    "ImageBody": "ImageBody_41.gif",
+    "ImageBody_64": "ImageBody_mini_41.gif",
+    "ImageBlister1": "ImageBlister1_41.gif",
+    "ImageBlister2": "ImageBlister2_41.gif",
+    "ImageBlisterCard": "ImageBlisterCard_41.gif",
+    "Faction": "GiJoe",
+    "ID": "41",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_41_167.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_41_168.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_41_169.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Lightfoot was released carded as part of the seventh series (1988). He was also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Owens, Cory R.\r\nSN: 075-09-4876\r\nGrade: E-4\r\nBirthplace: Wichita, Kansas\r\nPrimary Specialty: Demolitions\r\nSecondary Specialty: Artillery Coordinator",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "LIFELINE (v1)",
+    "Year": "1986",
+    "CodeName": "RESCUE TROOPER",
+    "ImageBody": "ImageBody_42.gif",
+    "ImageBody_64": "ImageBody_mini_42.gif",
+    "ImageBlister1": "ImageBlister1_42.gif",
+    "ImageBlister2": "ImageBlister2_42.gif",
+    "ImageBlisterCard": "ImageBlisterCard_42.gif",
+    "Faction": "GiJoe",
+    "ID": "42",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_42_170.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_42_171.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_42_172.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_42_173.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Five",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Lifeline was released carded as part of the fifth series (1986). He was also available in 1987 and was discontinued in 1988. This Lifeline should not be confused with the 1991 mail-in Lifeline (v3). While the two look alike at first glance, the legs of the 1991 Lifeline are different.",
+    "FilecardInformation": "File Name: Steen, Edwin C.\r\nGrade: E-5\r\nBirthplace: Seattle, Washington\r\nPrimary Specialty: Medic",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SHOCKWAVE (v1)",
+    "Year": "1988",
+    "CodeName": "S.W.A.T. SPECIALIST",
+    "ImageBody": "ImageBody_43.gif",
+    "ImageBody_64": "ImageBody_mini_43.gif",
+    "ImageBlister1": "ImageBlister1_43.gif",
+    "ImageBlister2": "ImageBlister2_43.gif",
+    "ImageBlisterCard": "ImageBlisterCard_43.gif",
+    "Faction": "GiJoe",
+    "ID": "43",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_43_174.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_43_175.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_43_177.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_43_176.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Shockwave was released carded as part of the seventh series (1988). He was also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "BACKBLAST (v1)",
+    "Year": "1989",
+    "CodeName": "ANTI-AIRCRAFT SOLDIER",
+    "ImageBody": "ImageBody_44.gif",
+    "ImageBody_64": "ImageBody_mini_44.gif",
+    "ImageBlister1": "ImageBlister1_44.gif",
+    "ImageBlister2": "ImageBlister2_44.gif",
+    "ImageBlisterCard": "ImageBlisterCard_44.gif",
+    "Faction": "GiJoe",
+    "ID": "44",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_44_182.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_44_179.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_44_178.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_44_180.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_44_181.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_44_183.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Backblast was first released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Menninger, Edward J.\r\nGrade: E-5\r\nBirthplace: New York, New York\r\nPrimary Specialty: Air Defense Artillery\r\nSecondary Specialty: Signal Corps",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "BLOCKER (v1)",
+    "Year": "1987",
+    "CodeName": "ELIMINATOR DRIVER",
+    "ImageBody": "ImageBody_45.gif",
+    "ImageBody_64": "ImageBody_mini_45.gif",
+    "ImageBlister1": "ImageBlister1_45.gif",
+    "ImageBlister2": "ImageBlister2_45.gif",
+    "ImageBlisterCard": "ImageBlisterCard_45.gif",
+    "Faction": "GiJoe",
+    "ID": "45",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_45_184.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_45_185.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "Battle Force 2000",
+    "Price": "0",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Blocker was first released carded invidually as part of the Battleforce 2000 subset of G.I.Joe at the very end of the sixth series (1987). In 1988 he was available carded in a special two-pack with Maverick and was discontinued the following year.\r\n\r\nEven if they are not listed in the 1987 catalog, the Battleforce 2000 figures are considered part of the 1987 series since they made it to toy shelves in the 1987 calendar year. Be aware that some toy listings will list Blocker as having been released in 1988.",
+    "FilecardInformation": "File Name: McCarthy, David B.\r\nGrade: E-5 (Sergeant)\r\nBirthplace: Boston, Massachusetts\r\nPrimary Specialty: Mechanized Recon\r\nSecondary Specialty: Special Services",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "RAPTOR (v1)",
+    "Year": "1987",
+    "CodeName": "COBRA FALCONER",
+    "ImageBody": "ImageBody_46.gif",
+    "ImageBody_64": "ImageBody_mini_46.gif",
+    "ImageBlister1": "ImageBlister1_46.gif",
+    "ImageBlister2": "ImageBlister2_46.gif",
+    "ImageBlisterCard": "ImageBlisterCard_46.gif",
+    "Faction": "Cobra",
+    "ID": "46",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_46_186.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_46_187.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Raptor was first released carded as part of the sixth series (1987). He was also sold in 1988 and was discontinued domestically in 1989.",
+    "FilecardInformation": "-",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ALLEY VIPER (v1)",
+    "Year": "1989",
+    "CodeName": "COBRA URBAN ASSAULT TROOPER",
+    "ImageBody": "ImageBody_47.gif",
+    "ImageBody_64": "ImageBody_mini_47.gif",
+    "ImageBlister1": "ImageBlister1_47.gif",
+    "ImageBlister2": "ImageBlister2_47.gif",
+    "ImageBlisterCard": "ImageBlisterCard_47.gif",
+    "Faction": "Cobra",
+    "ID": "47",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_47_188.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_47_189.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_47_190.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_47_191.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_47_192.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Alley Viper was first released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "The ALLEY VIPERS are the Cobra equivalent of a police S.W.A.T. unit or British S.A.S. (Special Air Service). They form the spearhead of Cobra's inner-city invasion forces.",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DODGER (v1)",
+    "Year": "1987",
+    "CodeName": "MARAUDER DRIVER/MARAUDER HALF-TRACK DRIVER",
+    "ImageBody": "ImageBody_48.gif",
+    "ImageBody_64": "ImageBody_mini_48.gif",
+    "ImageBlister1": "ImageBlister1_48.gif",
+    "ImageBlister2": "ImageBlister2_48.gif",
+    "ImageBlisterCard": "ImageBlisterCard_48.gif",
+    "Faction": "GiJoe",
+    "ID": "48",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_48_193.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_48_194.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "Battle Force 2000",
+    "Price": "0",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Dodger was first released carded invidually as part of the Battleforce 2000 subset of G.I.Joe at the very end of the sixth series (1987). In 1988 he was available carded in a special two-pack with Knockdown and was discontinued the following year.",
+    "FilecardInformation": "File Name: Renwick, Richard\r\nGrade: E-7\r\nBirthplace: South Bend, Indiana\r\nPrimary Specialty: Armored Vehicle Maintenance\r\nSecondary Specialty: Electronics Maintenance",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "RECOIL (v1)",
+    "Year": "1989",
+    "CodeName": "LONG RANGE RECON PATROL",
+    "ImageBody": "ImageBody_49.gif",
+    "ImageBody_64": "ImageBody_mini_49.gif",
+    "ImageBlister1": "ImageBlister1_49.gif",
+    "ImageBlister2": "ImageBlister2_49.gif",
+    "ImageBlisterCard": "ImageBlisterCard_49.gif",
+    "Faction": "GiJoe",
+    "ID": "49",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_49_195.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_49_196.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_49_197.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_49_198.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Recoil was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Felton, Joseph\r\nGrade: E-5\r\nBirthplace: Fashion Island, Washington\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: RTO (Radio Telephone Operator)",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ROCK & ROLL (v2)",
+    "Year": "1989",
+    "CodeName": "GATLING GUNNER",
+    "ImageBody": "ImageBody_50.gif",
+    "ImageBody_64": "ImageBody_mini_50.gif",
+    "ImageBlister1": "ImageBlister1_50.gif",
+    "ImageBlister2": "ImageBlister2_50.gif",
+    "ImageBlisterCard": "ImageBlisterCard_50.gif",
+    "Faction": "GiJoe",
+    "ID": "50",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_50_199.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_50_201.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_50_200.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_50_202.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "30",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Rock & Roll (version 2) was released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: McConnel, Craig S.\r\nSN: 989-1314-MC53\r\nGrade: E-6\r\nBirthplace: Malibu, California\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: PT Instructor (Physical Training)",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DOWNTOWN (v1)",
+    "Year": "1989",
+    "CodeName": "MORTAR MAN",
+    "ImageBody": "ImageBody_51.gif",
+    "ImageBody_64": "ImageBody_mini_51.gif",
+    "ImageBlister1": "ImageBlister1_51.gif",
+    "ImageBlister2": "ImageBlister2_51.gif",
+    "ImageBlisterCard": "ImageBlisterCard_51.gif",
+    "Faction": "GiJoe",
+    "ID": "51",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_51_204.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_51_206.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_51_207.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_51_203.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_51_205.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_51_208.gif",
+        "Roto": false,
+        "QuantityNeeded": 6,
+        "QuantityHaveit": 6,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Downtown was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Riley, Thomas P.\r\nSN: 131-7804-RT76\r\nGrade: E-4\r\nBirthplace: Cleveland, Ohio\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Special Operations",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "IRON GRENADIERS (v1)",
+    "Year": "1988",
+    "CodeName": "DESTRO'S ELITE TROOPERS",
+    "ImageBody": "ImageBody_52.gif",
+    "ImageBody_64": "ImageBody_mini_52.gif",
+    "ImageBlister1": "ImageBlister1_52.gif",
+    "ImageBlister2": "ImageBlister2_52.gif",
+    "ImageBlisterCard": "ImageBlisterCard_52.gif",
+    "Faction": "Cobra",
+    "ID": "52",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_52_211.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_52_209.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_52_210.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "25",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Iron Grenadiers were first released carded as part of the seventh series (1988). They were also sold in 1989 and were discontinued domestically in 1990.",
+    "FilecardInformation": "Specialties: Terrorism, sales, marketing development.",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "CAPT. GRID-IRON (v1)",
+    "Year": "1990",
+    "CodeName": "HAND TO HAND COMBAT SPECIALIST",
+    "ImageBody": "ImageBody_53.gif",
+    "ImageBody_64": "ImageBody_mini_53.gif",
+    "ImageBlister1": "ImageBlister1_53.gif",
+    "ImageBlister2": "ImageBlister2_53.gif",
+    "ImageBlisterCard": "ImageBlisterCard_53.gif",
+    "Faction": "GiJoe",
+    "ID": "53",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_53_212.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_53_213.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_53_214.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_53_215.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_53_216.gif",
+        "Roto": false,
+        "QuantityNeeded": 4,
+        "QuantityHaveit": 2,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_53_217.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_53_218.gif",
+        "Roto": false,
+        "QuantityNeeded": 3,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Nine",
+    "IHaveIt": false,
+    "ICoqueraOk": false,
+    "Description": "Capt. Grid-Iron was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SALVO (v1)",
+    "Year": "1990",
+    "CodeName": "ANTI-ARMOR TROOPER",
+    "ImageBody": "ImageBody_54.gif",
+    "ImageBody_64": "ImageBody_mini_54.gif",
+    "ImageBlister1": "ImageBlister1_54.gif",
+    "ImageBlister2": "ImageBlister2_54.gif",
+    "ImageBlisterCard": "ImageBlisterCard_54.gif",
+    "Faction": "GiJoe",
+    "ID": "54",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_54_219.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_54_221.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_54_220.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_54_222.gif",
+        "Roto": false,
+        "QuantityNeeded": 5,
+        "QuantityHaveit": 5,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_54_223.gif",
+        "Roto": false,
+        "QuantityNeeded": 5,
+        "QuantityHaveit": 5,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_54_224.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Nine",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Salvo was released carded as part of the ninth series (1990). He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Hasle, David K.\r\nSN: 524-7110-AR42\r\nGrade: E-7\r\nBirthplace: Arlington, Virginia\r\nPrimary Specialty: Anti-Armor Trooper\r\nSecondary Specialty: TOW/Dragon Repair Technician",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "KEN MASTERS (v1)",
+    "Year": "1993",
+    "CodeName": "SHOTOKAN KARATE FIGHTER",
+    "ImageBody": "ImageBody_55.gif",
+    "ImageBody_64": "ImageBody_mini_55.gif",
+    "ImageBlister1": "ImageBlister1_55.gif",
+    "ImageBlister2": "ImageBlister2_55.gif",
+    "ImageBlisterCard": "ImageBlisterCard_55.gif",
+    "Faction": "GiJoe",
+    "ID": "55",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_55_225.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_55_226.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_55_227.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_55_228.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_55_229.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_55_2.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "8",
+    "Serie": "Twelve",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Ken Masters was released carded in the twelfth series (1993) as part of Capcom's Street Fighter 2 subset. The Street Fighter 2 figures were numbered 1 through 12 - Ken Masters was number 2.He was discontinued domestically in 1994.",
+    "FilecardInformation": "United States of America",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SNAKE EYES (v3)",
+    "Year": "1989",
+    "CodeName": "COMMANDO",
+    "ImageBody": "ImageBody_56.gif",
+    "ImageBody_64": "ImageBody_mini_56.gif",
+    "ImageBlister1": "ImageBlister1_56.gif",
+    "ImageBlister2": "ImageBlister2_56.gif",
+    "ImageBlisterCard": "ImageBlisterCard_56.gif",
+    "Faction": "GiJoe",
+    "ID": "56",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_56_230.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_56_232.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_56_231.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_56_233.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_56_234.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "8",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Snake Eyes (version 3) was released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Classified\r\nSN: Classified\r\nGrade: E-7\r\nBirthplace: Classified\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Hand-to-Hand Combat Instructor",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "BLIZZARD (v1)",
+    "Year": "1988",
+    "CodeName": "ARCTIC ATTACK SOLDIER",
+    "ImageBody": "ImageBody_57.gif",
+    "ImageBody_64": "ImageBody_mini_57.gif",
+    "ImageBlister1": "ImageBlister1_57.gif",
+    "ImageBlister2": "ImageBlister2_57.gif",
+    "ImageBlisterCard": "ImageBlisterCard_57.gif",
+    "Faction": "GiJoe",
+    "ID": "57",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_57_235.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_57_236.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_57_238.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_57_237.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_57_239.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_57_240.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_57_241.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Blizzard was released carded as part of the seventh series (1988). He was also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Natale, Gregory M.\r\nSN: 432-44-2464\r\nGrade: E-7\r\nBirthplace: Wolfboro, New Hampshire\r\nPrimary Specialty: Arctic Warfare Training Instructor\r\nSecondary Specialty: Infantry",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "LIFELINE (v2)",
+    "Year": "1988",
+    "CodeName": "TIGER FORCE MEDIC",
+    "ImageBody": "ImageBody_58.gif",
+    "ImageBody_64": "ImageBody_mini_58.gif",
+    "ImageBlister1": "ImageBlister1_58.gif",
+    "ImageBlister2": "ImageBlister2_58.gif",
+    "ImageBlisterCard": "ImageBlisterCard_58.gif",
+    "Faction": "GiJoe",
+    "ID": "58",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_58_242.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_58_243.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_58_244.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_58_173.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "TIGER FORCE",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Lifeline (version 2) - also commonly known as Tiger Force Lifeline - was released carded as part of the seventh series (1988). He was also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Steen, Edwin C.\r\nGrade: E-5\r\nBirthplace: Seattle, Washington\r\nPrimary Specialty: Medic\r\nSecondary Specialty: X-Ray Technician",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "HARDBALL (v1)",
+    "Year": "1988",
+    "CodeName": "MULTI-SHOT GRENADIER",
+    "ImageBody": "ImageBody_59.gif",
+    "ImageBody_64": "ImageBody_mini_59.gif",
+    "ImageBlister1": "ImageBlister1_59.gif",
+    "ImageBlister2": "ImageBlister2_59.gif",
+    "ImageBlisterCard": "ImageBlisterCard_59.gif",
+    "Faction": "GiJoe",
+    "ID": "59",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_59_245.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_59_246.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Hardball was first released carded as part of the seventh series (1988). He was also sold in 1989 and was discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Duggleby, Wilmer S.\r\nSN: 075-09-4876\r\nGrade: E-4\r\nBirthplace: Cooperstown, New York\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Special Services",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "REPEATER (v1)",
+    "Year": "1988",
+    "CodeName": "STEADI-CAM MACHINE GUNNER",
+    "ImageBody": "ImageBody_60.gif",
+    "ImageBody_64": "ImageBody_mini_60.gif",
+    "ImageBlister1": "ImageBlister1_60.gif",
+    "ImageBlister2": "ImageBlister2_60.gif",
+    "ImageBlisterCard": "ImageBlisterCard_60.gif",
+    "Faction": "GiJoe",
+    "ID": "60",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_60_247.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_60_248.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Repeater was released carded as part of the seventh series (1988). He was also sold in 1989 and discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Therien, Jeffrey R.\r\nGrade: E-6\r\nBirthplace: Cumberland, Rhode Island\r\nPrimary Specialty: Infantry\r\nSecondary Specialty: Heavy weapons",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "B.A.T.S. (v1) [Black Major]",
+    "Year": "1986",
+    "CodeName": "COBRA ANDROID TROOPER",
+    "ImageBody": "ImageBody_61.gif",
+    "ImageBody_64": "ImageBody_mini_61.gif",
+    "ImageBlister1": "ImageBlister1_61.gif",
+    "ImageBlister2": "ImageBlister2_61.gif",
+    "ImageBlisterCard": "ImageBlisterCard_61.gif",
+    "Faction": "Cobra",
+    "ID": "61",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_61_250.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_61_251.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_61_252.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_61_253.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_61_254.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_61_255.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_61_256.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "30",
+    "Serie": "Five",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "B.A.T.S., also known as B.A.T., was first released as part of the fifth series (1986). He was also available in 1987 and was discontinued in 1988.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ARMADILLO (v1)",
+    "Year": "1988",
+    "CodeName": "G.I. JOE ROLLING THUNDER DRIVER",
+    "ImageBody": "ImageBody_62.gif",
+    "ImageBody_64": "ImageBody_mini_62.gif",
+    "ImageBlister1": "ImageBlister1_62.gif",
+    "ImageBlister2": "ImageBlister2_62.gif",
+    "ImageBlisterCard": "ImageBlisterCard_62.gif",
+    "Faction": "GiJoe",
+    "ID": "62",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_62_2.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Armadillo was released as part of the seventh series (1988), packaged exclusively with the Rolling Thunder 8WD. He was also sold in 1989, then was discontinued domestically in 1990.",
+    "FilecardInformation": "File Name: Makepeace, Philo R.\r\nSN: 319-52-4887\r\nGrade: E-7 (Sergeant First Class)\r\nBirthplace: Ft. Huachuca, AZ\r\nPrimary Specialty: Armored Assault Vehicle Driver\r\nSecondary Specialty: Advanced Reconnaissance",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "T.A.R.G.A.T. (v1)",
+    "Year": "1989",
+    "CodeName": "TRANS ATMOSPHERIC RAPID GLOBAL ASSAULT TROOPER",
+    "ImageBody": "ImageBody_63.gif",
+    "ImageBody_64": "ImageBody_mini_63.gif",
+    "ImageBlister1": "ImageBlister1_63.gif",
+    "ImageBlister2": "ImageBlister2_63.gif",
+    "ImageBlisterCard": "ImageBlisterCard_63.gif",
+    "Faction": "Cobra",
+    "ID": "63",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_63_260.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_63_261.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_63_262.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_63_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_63_259.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "T.A.R.G.A.T. was first released carded as part of the eighth series (1989). He was also sold in 1990, then was discontinued domestically in 1991.",
+    "FilecardInformation": "Always in the forefront of technology, Destro's technicians have developed a method for inserting troops into totally inaccessible locations. Trans Atmospheric Rapid Global Assault Troopers are deployed into orbit from a shuttle, wearing armored self-contained, bio-system suits and ceramic composite heat shields that double as hang gliders and weapons platforms. Their re-entry over their target could easily be mistaken for a meteor shower - until they start shooting!",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "MAVERICK (v1)",
+    "Year": "1987",
+    "CodeName": "JET FIGHTER PILOT",
+    "ImageBody": "ImageBody_64.gif",
+    "ImageBody_64": "ImageBody_mini_64.gif",
+    "ImageBlister1": "ImageBlister1_64.gif",
+    "ImageBlister2": "ImageBlister2_64.gif",
+    "ImageBlisterCard": "ImageBlisterCard_64.gif",
+    "Faction": "GiJoe",
+    "ID": "64",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_64_263.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_64_264.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "Battle Force 2000",
+    "Price": "15",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "",
+    "FilecardInformation": "Maverick was first released carded invidually as part of the Battleforce 2000 subset of G.I.Joe at the very end of the sixth series (1987). In 1988 he was available carded in a special two-pack with Blocker and was discontinued the following year",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "BIG BOA (v1)",
+    "Year": "1987",
+    "CodeName": "COBRA TRAINER",
+    "ImageBody": "ImageBody_65.gif",
+    "ImageBody_64": "ImageBody_mini_65.gif",
+    "ImageBlister1": "ImageBlister1_65.gif",
+    "ImageBlister2": "ImageBlister2_65.gif",
+    "ImageBlisterCard": "ImageBlisterCard_65.gif",
+    "Faction": "Cobra",
+    "ID": "65",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_65_266.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_65_267.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_65_268.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_65_265.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "15",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Big Boa was first released carded as part of the sixth series (1987). He was also sold in 1988 and was discontinued domestically in 1989.",
+    "FilecardInformation": "",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "STALKER (v2)",
+    "Year": "1989",
+    "CodeName": "TUNDRA RANGER",
+    "ImageBody": "ImageBody_66.gif",
+    "ImageBody_64": "ImageBody_mini_66.gif",
+    "ImageBlister1": "ImageBlister1_66.gif",
+    "ImageBlister2": "ImageBlister2_66.gif",
+    "ImageBlisterCard": "ImageBlisterCard_66.gif",
+    "Faction": "GiJoe",
+    "ID": "66",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_66_269.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_66_270.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_66_271.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_66_272.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_66_273.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_66_274.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_66_275.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Eight",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Stalker (v2) was released carded as part of the eighth series (1989). He was also sold in 1990 and was discontinued domestically in 1991.",
+    "FilecardInformation": "",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "ROADBLOCK (v2)",
+    "Year": "1986",
+    "CodeName": "HEAVY MACHINE GUNNER",
+    "ImageBody": "ImageBody_67.gif",
+    "ImageBody_64": "ImageBody_mini_67.gif",
+    "ImageBlister1": "ImageBlister1_67.gif",
+    "ImageBlister2": "ImageBlister2_67.gif",
+    "ImageBlisterCard": "ImageBlisterCard_67.gif",
+    "Faction": "GiJoe",
+    "ID": "67",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_67_276.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_67_277.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "0",
+    "Serie": "Five",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Roadblock (version 2) was released carded as part of the fifth series (1986). He was also available in 1987 and was discontinued in 1988.\r\n\r\nLeftover Hasbro stock of this figure was packaged with new accessories and sold at an early G.I.Joe Convention.",
+    "FilecardInformation": "",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "AIRTIGHT (v1)",
+    "Year": "1985",
+    "CodeName": "HOSTILE ENVIRONMENT",
+    "ImageBody": "ImageBody_68.gif",
+    "ImageBody_64": "ImageBody_mini_68.gif",
+    "ImageBlister1": "ImageBlister1_68.gif",
+    "ImageBlister2": "ImageBlister2_68.gif",
+    "ImageBlisterCard": "ImageBlisterCard_68.gif",
+    "Faction": "GiJoe",
+    "ID": "68",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_68_278.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_68_279.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_68_280.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_68_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "15",
+    "Serie": "Four",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Airtight was first released as part of the fourth series (1985). He was also available in 1986 and was discontinued in 1987.",
+    "FilecardInformation": "File Name: Schnurr, Kurt\r\nSN: 307-42-4683\r\nGrade: E-4\r\nBirthplace: New Haven, Connecticut\r\nPrimary Specialty: CBR (Chemical, Biological and Radiological Warfare)\r\nSecondary Specialty: Ordnance\r\n\r\nKurt was the kid who could hold his breath the longest. He was also the kid who had the largest collection of plastic dinosaurs on the block. He was a weird kid who grew up to be an even stranger adult. It takes a mighty weird person to walk into a cloud of toxic gas strong enough to fell a mutant weight-lifter cockroach wearing a protective suit built under contract for the government by the lowest bidder.",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DIAL-TONE (v3)",
+    "Year": "1990",
+    "CodeName": "COMMUNICATIONS",
+    "ImageBody": "ImageBody_69.gif",
+    "ImageBody_64": "ImageBody_mini_69.gif",
+    "ImageBlister1": "ImageBlister1_69.gif",
+    "ImageBlister2": "ImageBlister2_69.gif",
+    "ImageBlisterCard": "ImageBlisterCard_69.gif",
+    "Faction": "GiJoe",
+    "ID": "69",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_69_281.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_69_282.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_69_283.gif",
+        "Roto": true,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_69_284.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_69_285.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "15",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Dial-Tone (v3) was first released carded as part of the ninth series (1990) as part of the Sonic Fighters. He was discontinued domestically in 1991.",
+    "FilecardInformation": "File Name: Morelli, Jack S.\r\nSN: 428-7133-BA60\r\nGrade: E-4\r\nBirthplace: Eugene, Oregon\r\nPrimary Specialty: Radio Telecommunications\r\nSecondary Specialty: Infantry\r\n\r\nDIAL-TONE's been fixing and building communication systems since he was knee high to a Thyratron. Ten years experience and advanced forces training has also made him an expert in the field of laser technology. To Dial-Tone, bouncing a message off a satellite halfway around the globe, and firing a high-intensity laser burst at a moving target are essentially the same thing. So when he heard the high command was looking for seasoned troopers with specialized skills, Dial-Tone said, \"Hold my calls!\" Dial-Tone is also the unofficial electronics repairman for the team.",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "DESTRO (v2)",
+    "Year": "1988",
+    "CodeName": "DESTRO (v2)",
+    "ImageBody": "ImageBody_70.gif",
+    "ImageBody_64": "ImageBody_mini_70.gif",
+    "ImageBlister1": "ImageBlister1_70.gif",
+    "ImageBlister2": "ImageBlister2_70.gif",
+    "ImageBlisterCard": "ImageBlisterCard_70.gif",
+    "Faction": "Cobra",
+    "ID": "70",
+    "IHaveCompleted": true,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_70_286.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "20",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Destro (version 2) was released as part of the seventh series (1988), packaged exclusively with the Destro's Despoiler hoverjet. He was also sold in 1988, then was discontinued domestically in 1989.",
+    "FilecardInformation": "Filecard Information\r\n\r\n<br><i>Contributed by: Dan Klingensmith</i>\r\nFile Name: James McCullen Destro\r\nBirthplace: Callander, Scotland\r\nPrimary Specialty: Leader of the Iron Grenadiers & Weapons Manufacturer\r\n\r\nOnce a major supplier and advisor to Cobra, DESTRO now pursues his own diabolical aims. Building up a small army of Iron Grenadiers from his private bodyguards, he incites unrest in unstable countries, creating new markets for his armaments. As his influence grows around the world, he dreams the dreams that COBRA COMMANDER once dreamed.",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SNOW SERPENT (v1)",
+    "Year": "1985",
+    "CodeName": "COBRA POLAR ASSAULT",
+    "ImageBody": "ImageBody_71.gif",
+    "ImageBody_64": "ImageBody_mini_71.gif",
+    "ImageBlister1": "ImageBlister1_71.gif",
+    "ImageBlister2": "ImageBlister2_71.gif",
+    "ImageBlisterCard": "ImageBlisterCard_71.gif",
+    "Faction": "Cobra",
+    "ID": "71",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_71_292.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_71_288.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_71_289.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_71_290.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_71_291.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_71_293.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "17",
+    "Serie": "Four",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Esta muy biien de articulaciones, color y de todo.",
+    "FilecardInformation": "",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "SCI-FI (v2)",
+    "Year": "1991",
+    "CodeName": "DIRECTED ENERGY EXPERT",
+    "ImageBody": "ImageBody_72.gif",
+    "ImageBody_64": "ImageBody_mini_72.gif",
+    "ImageBlister1": "ImageBlister1_72.gif",
+    "ImageBlister2": "ImageBlister2_72.gif",
+    "ImageBlisterCard": "ImageBlisterCard_72.gif",
+    "Faction": "GiJoe",
+    "ID": "72",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_72_294.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_72_295.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_72_296.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_72_297.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_72_298.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_72_16.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_72_8.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "16",
+    "Serie": "Ten",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Está muy bien de articulaciones, coquera y de todo.",
+    "FilecardInformation": "",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "WET-SUIT (v1)",
+    "Year": "1986",
+    "CodeName": "SEALS",
+    "ImageBody": "ImageBody_73.gif",
+    "ImageBody_64": "ImageBody_mini_73.gif",
+    "ImageBlister1": "ImageBlister1_73.gif",
+    "ImageBlister2": "ImageBlister2_73.gif",
+    "ImageBlisterCard": "ImageBlisterCard_73.gif",
+    "Faction": "GiJoe",
+    "ID": "73",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_73_299.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_73_300.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_73_301.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_73_302.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_73_303.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "10",
+    "Serie": "Five",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Esta bastante mal, he tenido que pegarlo con pegamento de silicona porque el tornillo no encaja. Esta bastante sucio",
+    "FilecardInformation": "",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 3
+  },
+  {
+    "Name": "DUSTY (v1)",
+    "Year": "1985",
+    "CodeName": "DESERT TROOPER",
+    "ImageBody": "ImageBody_74.gif",
+    "ImageBody_64": "ImageBody_mini_74.gif",
+    "ImageBlister1": "ImageBlister1_74.gif",
+    "ImageBlister2": "ImageBlister2_74.gif",
+    "ImageBlisterCard": "ImageBlisterCard_74.gif",
+    "Faction": "GiJoe",
+    "ID": "74",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_74_304.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_74_305.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_74_306.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "10",
+    "Serie": "Four",
+    "IHaveIt": true,
+    "ICoqueraOk": false,
+    "Description": "Tiene la coquera rota.",
+    "FilecardInformation": "",
+    "IJointsOk": false,
+    "IThumbsOK": true,
+    "IGoodCondition": 1
+  },
+  {
+    "Name": "HIT & RUN (v1)",
+    "Year": "1988",
+    "CodeName": "LIGHT INFANTRYMAN",
+    "ImageBody": "ImageBody_75.gif",
+    "ImageBody_64": "ImageBody_mini_75.gif",
+    "ImageBlister1": "ImageBlister1_75.gif",
+    "ImageBlister2": "ImageBlister2_75.gif",
+    "ImageBlisterCard": "ImageBlisterCard_75.gif",
+    "Faction": "GiJoe",
+    "ID": "75",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_75_307.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_75_308.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_75_309.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_75_310.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "10",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "",
+    "FilecardInformation": "Orphaned at the age of three by a drunken driver, Hit & Run grew up in a county institution from which he escaped with alarming regularity, climbing down sheer walls and running for miles across the plains in the middle of the night. When asked what he was running away from, he replied, \"I'm not running away from anything. I'm practicing.\" He went from the custody of the county, directly into the Army...",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 0
+  },
+  {
+    "Name": "TUNNEL RAT (v1)",
+    "Year": "1987",
+    "CodeName": "E.O.D.",
+    "ImageBody": "ImageBody_76.gif",
+    "ImageBody_64": "ImageBody_mini_76.gif",
+    "ImageBlister1": "ImageBlister1_76.gif",
+    "ImageBlister2": "ImageBlister2_76.gif",
+    "ImageBlisterCard": "ImageBlisterCard_76.gif",
+    "Faction": "GiJoe",
+    "ID": "76",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_76_311.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_76_312.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_76_313.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_76_314.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "15",
+    "Serie": "Six",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "",
+    "FilecardInformation": "Tunnel Rat was first released as part of the sixth series (1987). He was also available in 1988 and was discontinued in 1989.\r\n\r\nWebmaster's Note:\r\nIt was common practice at Hasbro among the toy makers to sculpt action figures to look like real life individuals - including employees of Hasbro.\r\n\r\nTunnel Rat was sculpted to be Larry Hama - writer for Marvel Comics' G.I.Joe comic books from 1982 to 1994.",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 1
+  },
+  {
+    "Name": "HYDRO-VIPER (v1)",
+    "Year": "1988",
+    "CodeName": "DEMON OF THE DEEP",
+    "ImageBody": "ImageBody_77.gif",
+    "ImageBody_64": "ImageBody_mini_77.gif",
+    "ImageBlister1": "ImageBlister1_77.gif",
+    "ImageBlister2": "ImageBlister2_77.gif",
+    "ImageBlisterCard": "ImageBlisterCard_77.gif",
+    "Faction": "Cobra",
+    "ID": "77",
+    "IHaveCompleted": false,
+    "ListOfWeapons": [
+      {
+        "Image": "ImageWeapon_77_315.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_77_316.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 2,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_77_317.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 1,
+        "Completed": true
+      },
+      {
+        "Image": "ImageWeapon_77_318.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_77_319.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_77_320.gif",
+        "Roto": false,
+        "QuantityNeeded": 2,
+        "QuantityHaveit": 1,
+        "Completed": false
+      },
+      {
+        "Image": "ImageWeapon_77_321.gif",
+        "Roto": false,
+        "QuantityNeeded": 1,
+        "QuantityHaveit": 0,
+        "Completed": false
+      }
+    ],
+    "GroupFamily": "",
+    "Price": "15",
+    "Serie": "Seven",
+    "IHaveIt": true,
+    "ICoqueraOk": true,
+    "Description": "Hydro-Viper was first released carded as part of the seventh series (1988). He was also sold in 1989 and was discontinued domestically in 1990.",
+    "FilecardInformation": "Hydro-Vipers are qualified EELS (Cobra Frogmen) who volunteer to be surgically altered to withstand nitrogen narcosis and other side effects of deep diving. Synthetic webs are implanted between their fingers and subcutaneous fat production is stimulated by chemical injections to provide natural insulation. The long term effects of these procedures is known to be psychologically destabilizing...\r\n\r\n\"I'm sorry, those guys just aren't human anymore. They have a handshake like a dead mackerel and they leave damp spots on all the furniture. I realize that they are virtually unbeatable in underwater combat, but so is a great white shark-and I'll bet the shark is friendlier!\"",
+    "IJointsOk": true,
+    "IThumbsOK": true,
+    "IGoodCondition": 1
+  }
+]
