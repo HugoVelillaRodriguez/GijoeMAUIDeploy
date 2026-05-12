@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Base de Datos GIJOE</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0f172a;
+      color: #f8fafc;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    .figure-card {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 16px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 16px;
+      align-items: start;
+    }
+    .figure-images {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .figure-images img {
+      width: 120px;
+      height: auto;
+      border-radius: 6px;
+    }
+    .figure-info h3 {
+      margin: 0 0 8px 0;
+      color: #38bdf8;
+    }
+    .figure-info p {
+      margin: 4px 0;
+      font-size: 14px;
+    }
+    .weapons {
+      margin-top: 12px;
+      padding-top: 12px;
+      border-top: 1px solid #334155;
+    }
+    .weapons h4 {
+      margin: 0 0 8px 0;
+      color: #f59e0b;
+    }
+    .weapon-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 4px;
+    }
+    .weapon-item img {
+      width: 40px;
+      height: auto;
+    }
+    .loading {
+      text-align: center;
+      padding: 40px;
+      color: #cbd5e1;
+    }
+    .error {
+      background: #dc2626;
+      color: white;
+      padding: 16px;
+      border-radius: 8px;
+      margin-bottom: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Base de Datos Completa de GIJOE</h1>
+  <div id="loading" class="loading">Cargando base de datos...</div>
+  <div id="error" class="error" style="display: none;"></div>
+  <div id="figures"></div>
+
+  <script>
+    async function loadDatabase() {
+      try {
+        const response = await fetch('dataDBGiJOE.json');
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        const figures = await response.json();
+
+        document.getElementById('loading').style.display = 'none';
+
+        const figuresContainer = document.getElementById('figures');
+
+        figures.forEach(figure => {
+          const figureCard = document.createElement('div');
+          figureCard.className = 'figure-card';
+
+          const imagesDiv = document.createElement('div');
+          imagesDiv.className = 'figure-images';
+
+          // Add images if they exist
+          if (figure.ImageBody) {
+            const imgBody = document.createElement('img');
+            imgBody.src = `DB_MAUI/${figure.ImageBody}`;
+            imgBody.alt = `${figure.Name} - Cuerpo`;
+            imagesDiv.appendChild(imgBody);
+          }
+
+          if (figure.ImageBlister1) {
+            const imgBlister = document.createElement('img');
+            imgBlister.src = `DB_MAUI/${figure.ImageBlister1}`;
+            imgBlister.alt = `${figure.Name} - Blíster`;
+            imagesDiv.appendChild(imgBlister);
+          }
+
+          const infoDiv = document.createElement('div');
+          infoDiv.className = 'figure-info';
+
+          infoDiv.innerHTML = `
+            <h3>${figure.Name}</h3>
+            <p><strong>Año:</strong> ${figure.Year}</p>
+            <p><strong>Código:</strong> ${figure.CodeName}</p>
+            <p><strong>Facción:</strong> ${figure.Faction}</p>
+            <p><strong>Serie:</strong> ${figure.Serie}</p>
+            <p><strong>Precio:</strong> ${figure.Price}€</p>
+            <p><strong>Descripción:</strong> ${figure.Description}</p>
+          `;
+
+          if (figure.ListOfWeapons && figure.ListOfWeapons.length > 0) {
+            const weaponsDiv = document.createElement('div');
+            weaponsDiv.className = 'weapons';
+            weaponsDiv.innerHTML = '<h4>Armas:</h4>';
+
+            figure.ListOfWeapons.forEach(weapon => {
+              const weaponDiv = document.createElement('div');
+              weaponDiv.className = 'weapon-item';
+
+              if (weapon.Image) {
+                const weaponImg = document.createElement('img');
+                weaponImg.src = `DB_MAUI/${weapon.Image}`;
+                weaponImg.alt = 'Arma';
+                weaponDiv.appendChild(weaponImg);
+              }
+
+              const weaponInfo = document.createElement('span');
+              weaponInfo.textContent = `Cantidad: ${weapon.QuantityHaveit}/${weapon.QuantityNeeded} ${weapon.Completed ? '✓' : '✗'}`;
+              weaponDiv.appendChild(weaponInfo);
+
+              weaponsDiv.appendChild(weaponDiv);
+            });
+
+            infoDiv.appendChild(weaponsDiv);
+          }
+
+          figureCard.appendChild(imagesDiv);
+          figureCard.appendChild(infoDiv);
+          figuresContainer.appendChild(figureCard);
+        });
+
+      } catch (error) {
+        document.getElementById('loading').style.display = 'none';
+        const errorDiv = document.getElementById('error');
+        errorDiv.textContent = `Error al cargar la base de datos: ${error.message}`;
+        errorDiv.style.display = 'block';
+      }
+    }
+
+    loadDatabase();
+  </script>
+</body>
+</html>
