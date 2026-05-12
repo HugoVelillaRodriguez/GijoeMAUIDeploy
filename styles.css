@@ -48,6 +48,23 @@ p {
   font-size: 1.5rem;
 }
 
+.loading {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 40px;
+  color: #cbd5e1;
+}
+
+.error {
+  grid-column: 1 / -1;
+  background: #dc2626;
+  color: white;
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
 figure {
   background: #1e293b;
   border: 1px solid #334155;

@@ -30,30 +30,9 @@
 
     <section class="gallery">
       <h2>Figuras de GIJOE desde DB_MAUI</h2>
-      <figure>
-        <img src="DB_MAUI/ImageBlister1_0.gif" alt="Storm Shadow (v3)">
-        <figcaption>Storm Shadow (v3) - Blíster</figcaption>
-      </figure>
-      <figure>
-        <img src="DB_MAUI/ImageBody_0.gif" alt="Storm Shadow (v3)">
-        <figcaption>Storm Shadow (v3) - Cuerpo</figcaption>
-      </figure>
-      <figure>
-        <img src="DB_MAUI/ImageBlister1_1.gif" alt="Avalanche (v1)">
-        <figcaption>Avalanche (v1) - Blíster</figcaption>
-      </figure>
-      <figure>
-        <img src="DB_MAUI/ImageBody_1.gif" alt="Avalanche (v1)">
-        <figcaption>Avalanche (v1) - Cuerpo</figcaption>
-      </figure>
-      <figure>
-        <img src="DB_MAUI/ImageBlister1_2.gif" alt="Blizzard (v1)">
-        <figcaption>Blizzard (v1) - Blíster</figcaption>
-      </figure>
-      <figure>
-        <img src="DB_MAUI/ImageBody_2.gif" alt="Blizzard (v1)">
-        <figcaption>Blizzard (v1) - Cuerpo</figcaption>
-      </figure>
+      <div id="loading" class="loading">Cargando figuras...</div>
+      <div id="error" class="error" style="display: none;"></div>
+      <div id="figures-gallery"></div>
     </section>
 
     <footer>
@@ -61,5 +40,66 @@
       <p><a href="dataDBGiJOE.json" target="_blank">Ver base de datos completa de GIJOE (JSON)</a> | <a href="database.html">Ver base de datos en página web</a></p>
     </footer>
   </main>
+
+  <script>
+    async function loadFigures() {
+      try {
+        const response = await fetch('dataDBGiJOE.json');
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+        }
+        const figures = await response.json();
+
+        document.getElementById('loading').style.display = 'none';
+
+        const gallery = document.getElementById('figures-gallery');
+
+        // Mostrar solo las primeras 12 figuras para no sobrecargar la página
+        const figuresToShow = figures.slice(0, 12);
+
+        figuresToShow.forEach(figure => {
+          // Mostrar imagen del cuerpo si existe
+          if (figure.ImageBody) {
+            const figureDiv = document.createElement('figure');
+            const img = document.createElement('img');
+            img.src = `DB_MAUI/${figure.ImageBody}`;
+            img.alt = `${figure.Name} - Cuerpo`;
+            img.loading = 'lazy';
+
+            const caption = document.createElement('figcaption');
+            caption.textContent = `${figure.Name} (${figure.Year}) - ${figure.Faction}`;
+
+            figureDiv.appendChild(img);
+            figureDiv.appendChild(caption);
+            gallery.appendChild(figureDiv);
+          }
+
+          // Mostrar imagen del blíster si existe
+          if (figure.ImageBlister1) {
+            const figureDiv = document.createElement('figure');
+            const img = document.createElement('img');
+            img.src = `DB_MAUI/${figure.ImageBlister1}`;
+            img.alt = `${figure.Name} - Blíster`;
+            img.loading = 'lazy';
+
+            const caption = document.createElement('figcaption');
+            caption.textContent = `${figure.Name} - Blíster`;
+
+            figureDiv.appendChild(img);
+            figureDiv.appendChild(caption);
+            gallery.appendChild(figureDiv);
+          }
+        });
+
+      } catch (error) {
+        document.getElementById('loading').style.display = 'none';
+        const errorDiv = document.getElementById('error');
+        errorDiv.textContent = `Error al cargar las figuras: ${error.message}`;
+        errorDiv.style.display = 'block';
+      }
+    }
+
+    loadFigures();
+  </script>
 </body>
 </html>
